@@ -1,0 +1,14 @@
+:root { 
+  --white: #ffffff;
+ 
+  --font-size-m: 24px;
+ 
+  --font-family-yugothic-bold: "YuGothic-Bold", Helvetica;
+}
+.yugothic-bold-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-yugothic-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}

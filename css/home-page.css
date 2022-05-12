@@ -1,0 +1,99 @@
+/* screen - home-page */
+
+.home-page {
+  background-color: var(--white);
+  height: 1080px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.home-page .x1600x-50-1-xVxyAW {
+  background-color: transparent;
+  height: 1080px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.home-page .text_label-xVxyAW {
+  background-color: transparent;
+  height: auto;
+  left: 650px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  width: auto;
+}
+
+.home-page .text_label-6iAz2g {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 855px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  transition: all 0.5s ease;
+  width: auto;
+}
+
+.home-page .text_label-6iAz2g:hover {
+  opacity: 1;
+}
+
+.home-page .text_label-W6w6Ty {
+  background-color: transparent;
+  height: auto;
+  left: 1060px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  width: auto;
+}
+
+.home-page .text_label-leqMHY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1265px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  width: auto;
+}
+
+.home-page .instagram-xVxyAW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1470px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  width: auto;
+}
+
+.home-page .logo-2-xVxyAW {
+  background-color: transparent;
+  height: 133px;
+  left: 197px;
+  object-fit: cover;
+  position: absolute;
+  top: 112px;
+  width: 409px;
+}

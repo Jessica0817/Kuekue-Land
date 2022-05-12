@@ -1,0 +1,110 @@
+/* screen - box */
+
+.box {
+  background-color: var(--white);
+  height: 2160px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.box .x1-4600x-50-1-xsbnJN {
+  background-color: transparent;
+  height: 1080px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.box .text_label-xsbnJN {
+  background-color: transparent;
+  height: auto;
+  left: 650px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  width: auto;
+}
+
+.box .text_label-fRx0xu {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 855px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  transition: all 0.5s ease;
+  width: auto;
+}
+
+.box .text_label-fRx0xu:hover {
+  opacity: 1;
+}
+
+.box .text_label-da96HS {
+  background-color: transparent;
+  height: auto;
+  left: 1060px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  width: auto;
+}
+
+.box .text_label-xvHJiM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1265px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  width: auto;
+}
+
+.box .instagram-xsbnJN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1470px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  width: auto;
+}
+
+.box .logo-2-xsbnJN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 133px;
+  left: 197px;
+  object-fit: cover;
+  position: absolute;
+  top: 112px;
+  width: 409px;
+}
+
+.box .x1-4600x-50-2-xsbnJN {
+  background-color: transparent;
+  height: 1080px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1080px;
+  width: 1920px;
+}
